@@ -11,3 +11,9 @@ false, answer false if the receiver is true."
 
 	self subclassResponsibility
 ]
+
+{ #category : #controlling }
+Bolean >> or: aBoolean [
+
+	^ self
+]

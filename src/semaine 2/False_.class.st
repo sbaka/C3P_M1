@@ -9,3 +9,9 @@ False_ >> not [
 
 	^ true
 ]
+
+{ #category : #controlling }
+False_ >> or: aBoolean [
+
+	^ aBoolean
+]
